@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 75cb7f7457448394aa0f50a47773496e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - map: {instanceID: 0}
+  - dwarfRuleTile: {fileID: 11400000, guid: 4f49d4f41acdce04e89a9697352a6cd0, type: 2}
+  - emptyRuleTile: {fileID: 11400000, guid: aceee746e3d5e0a449e156ade8ba4458, type: 2}
+  - terrainRuleTile: {fileID: 11400000, guid: 6500abf015a562e44a1719971fa9a7fd, type: 2}
+  - regularRootRuleTile: {fileID: 11400000, guid: bc62db4eb6c5331428d23970078a58eb, type: 2}
+  - spikeRootRuleTile: {fileID: 11400000, guid: 32284f2ea9a2c214eb9c58b199582c1d, type: 2}
+  - dwarfTile: {fileID: 11400000, guid: fb847c5280d625e43bf975b8f18b0fa7, type: 2}
+  - emptyTile: {fileID: 11400000, guid: 693f232312986f94592a1f79b470b64b, type: 2}
+  - terrainTile: {fileID: 11400000, guid: c3059877e3aab1948a7e990ea89597b0, type: 2}
+  - regularRootTile: {fileID: 11400000, guid: a9fae2a3cc546cc4a9d8c0ebfef2fe2f, type: 2}
+  - spikeRootTile: {fileID: 11400000, guid: eeeb467ba94aabe4dbb0e4987ce077dc, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
